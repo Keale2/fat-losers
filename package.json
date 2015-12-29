@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@unumux/ui-framework": "^2.6.5",
+    "parse": "^1.6.13"
+  }
+}
