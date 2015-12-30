@@ -3,6 +3,7 @@
   "devDependencies": {
     "@unumux/ui-framework": "^2.6.5",
     "history": "^1.17.0",
+    "moment": "^2.10.6",
     "parse": "^1.6.13",
     "parse-react": "^0.5.0",
     "react": "^0.14.3",

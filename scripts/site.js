@@ -6,15 +6,16 @@ import React from "react";
 import Parse from "parse";
 import ParseReact from "parse-react";
 import ReactDOM from "react-dom";
+import moment from "moment";
 
 const ParseComponent = ParseReact.Component(React);
 
 Parse.initialize("S3nwK9b74nhUCgAkV2KtF20g1ACzW4g9JtHq5orY", "KpxqKfYnB21If1GWKLEyd1ZpqwAB3Owl1QDsfxPD");
 
-const MonthForUser = ({date}) => {
-    console.log(date);
+const MonthForUser = ({month}) => {
+    console.log(month);
     return (
-        <h1>{date}</h1>
+        <h1>{month}</h1>
     )
 }
 
