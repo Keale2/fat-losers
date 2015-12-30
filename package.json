@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {
     "@unumux/ui-framework": "^2.6.5",
+    "eslint-plugin-react": "^3.13.1",
     "history": "^1.17.0",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
