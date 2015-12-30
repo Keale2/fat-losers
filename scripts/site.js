@@ -74,14 +74,6 @@ class App extends ParseComponent {
     }
 }
 
-<div>
-    {if(something) {
-        return <Test />
-    }}
-</div>
-
-
-
 class Root extends ParseComponent {
     observe() {
         return {
